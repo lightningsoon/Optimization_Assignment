@@ -7,12 +7,12 @@
 MATLAB2015
 
 #题目
-![](img/附加作业题目.jpg)
+![](./first/img/附加作业题目.jpg)
 
 #运行效果
 
 ## momentum.m
-![](img/momentum.jpg)
+![](./first/img/momentum.jpg)
 
 ## que1.m
 >> que1
